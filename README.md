@@ -1,2 +1,2 @@
 # corona_hobbies
-Stay at home project
+Stay at home projects
